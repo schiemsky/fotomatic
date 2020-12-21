@@ -22,10 +22,10 @@ html {
 
 .image-container {
   overflow: hidden;
+  display: inline-block;
 }
 
 .image-container img {
-  display: inline-block;
   max-width: 25%;
 }
 
