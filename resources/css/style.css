@@ -52,6 +52,7 @@ header .content {
 
 header .logo {
   flex: 1;
+  padding-left: 30px;
 }
 
 header nav ul {
@@ -118,6 +119,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  background-image: url('../images/banner-landingpage.jpg');
 }
 
 #sign-up-cta {
