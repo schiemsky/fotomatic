@@ -303,10 +303,12 @@ header .mobile {
 #filters-section .images-container {
   max-width: 100%;
   padding: 0 1%;
+  display: inline-block;
 }
 
 #filters-section .image-container {
   max-width: 25%;
+  padding: 0;
 }
 
 @media only screen and (max-width: 760px) {
